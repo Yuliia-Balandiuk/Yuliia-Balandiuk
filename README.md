@@ -2,8 +2,9 @@
 
 ### I'm Yuliia Front-end developer.
 
-🌱 I’m currently studying web-development in HackYourFuture Denmark
-📫 How to reach me: samuj.4s@gmail.com or my [LinkedIn](https://www.linkedin.com/in/yuliia-balandiuk/)
+- 🌱 I’m currently studying web-development in HackYourFuture Denmark
+
+- 📫 How to reach me: samuj.4s@gmail.com or my [LinkedIn](https://www.linkedin.com/in/yuliia-balandiuk/)
 
 ## 🧰 Languages and Tools:
 
@@ -20,9 +21,9 @@
 
 ## GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuliia-balandiuk&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliia-balandiuk)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuliia-balandiuk&show_icons=true)
 
 <!--
 **Yuliia-Balandiuk/Yuliia-Balandiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
